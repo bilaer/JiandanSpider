@@ -8,7 +8,7 @@ A simple multiprocessing web spider that can crawl the website Jiandan
  
 ## How it works
  JiandanSpider firstly crawl and save the information of pics from mezi and wuliao
- sessions into the database using multiprocessing. It will then filter out and download the top pictures which has highest likes/unlike/ratio of likes and  unlikes to the local disk.  
+ sessions into the database using multiprocesses. It will then filter out and download the top pictures which has highest likes/unlike/ratio of likes and  unlikes to the local disk.  
 
 ## Key Features:
  * Using multiprocessing to increase the speed
