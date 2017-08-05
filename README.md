@@ -15,8 +15,8 @@ A simple multiprocessing web spider that can crawl the website Jiandan
  * Using mongodb and pymongo API to store the initial data
 
 ## Built with:
-* [Requests](http://www.python-requests.org/en/master/) -Use to handle the HTTP Request 
-* [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) -Use the filter and find the items from website
-* [Pymongo](https://api.mongodb.com/python/current/) -Use to manipulate the mongodb database in Python
+* [Requests](http://www.python-requests.org/en/master/) -Requests is used to handle the HTTP Request 
+* [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) -bs4 is used to filter and find the items from website
+* [Pymongo](https://api.mongodb.com/python/current/) -Pymongo is the API of mongo and is used to manipulate the mongodb database in Python
 
 
